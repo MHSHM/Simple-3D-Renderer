@@ -15,3 +15,6 @@
 - used a pre-made math library provided with the book.
 - used JSON as a mesh file format because it is easy to edit and used 
   rapidjson library to parse it. 
+
+# Renderer Preview
+https://youtu.be/sRm5EZ2GnUk
